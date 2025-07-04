@@ -1,20 +1,21 @@
 {
   "name": "sheriyans",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "pooja rawat",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "cookie-parser": "^1.4.7",
-    "ejs": "^3.1.10",
-    "express": "^5.1.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couchhpotatoo/b-sheriyans.git"
   },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/couchhpotatoo/b-sheriyans/issues"
+  },
+  "homepage": "https://github.com/couchhpotatoo/b-sheriyans#readme",
+  "description": ""
 }
